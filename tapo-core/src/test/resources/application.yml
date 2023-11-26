@@ -1,0 +1,18 @@
+#configuration example
+tplink:
+  cloud.base: https://eu-wap.tplinkcloud.com/
+  cloud.type: Tapo_Android
+  cloud.care: https://euw1-app-tapo-care.i.tplinknbu.com/
+  email: your@email.org
+  password: y0urp@55
+  devices:
+    - name: Device 1
+      type: SmartPlug
+      model: P100
+      address: 192.168.1.254
+      protocol: klap
+    - name: Device 2
+      type: SmartPlug
+      model: P110
+      address: 99.100.101.102:12345
+      protocol: passthrough

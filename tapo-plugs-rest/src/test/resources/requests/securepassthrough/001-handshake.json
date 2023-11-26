@@ -1,0 +1,8 @@
+{
+  "method": "handshake",
+  "params": {
+    "key": "-----BEGIN PUBLIC KEY-----\r\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCiu0hngtTbZoZ9XuHq+lX5bTBd\r\n9aXyFTyk9VwzqdALorr7u0cTjM8MJErOSF31xSPfHSWFtMRYII4s4gZZurFTgDpe\r\n7kzkKXOHrK/hu/j4+dDSPAM/5zRH+95AABO+iqARpWNrHVMlIT2QQE/0MTlT9ggi\r\nHijR17/VX377OKk6LwIDAQAB\r\n-----END PUBLIC KEY-----\r\n"
+  },
+  "requestTimeMils": 1699906007508,
+  "terminalUUID": "00000000-104c-4190-bc4d-95b0f7b17282"
+}

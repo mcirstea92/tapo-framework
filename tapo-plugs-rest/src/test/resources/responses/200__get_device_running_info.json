@@ -1,0 +1,28 @@
+{
+  "result": {
+    "device_id": "802241653A2D3C53B29FF3ADA413FB6A1FACE1CC",
+    "fw_ver": "1.2.3 Build 230425 Rel.142542",
+    "ip": "192.168.1.12",
+    "signal_level": 2,
+    "rssi": -64,
+    "auto_off_status": "off",
+    "auto_off_remain_time": 0,
+    "latitude": 447176,
+    "longitude": 249547,
+    "lang": "ro_RO",
+    "avatar": "plug",
+    "region": "Europe/Bucharest",
+    "specs": "",
+    "nickname": "VGFwbyBQMTAw",
+    "has_set_location_info": true,
+    "device_on": true,
+    "on_time": 5,
+    "default_states": {
+      "type": "last_states",
+      "state": {}
+    },
+    "overheated": false,
+    "power_protection_status": "normal"
+  },
+  "error_code": 0
+}

@@ -1,0 +1,11 @@
+{
+  "method": "add_countdown_rule",
+  "params": {
+    "delay": 14,
+    "desired_states": {
+      "on": true
+    },
+    "enable": true,
+    "remain": 14
+  }
+}

@@ -1,0 +1,5 @@
+/target/
+/.idea/
+/src/test/resources/application-cloud-tests.yml
+/src/test/resources/application-passthrough-tests.yml
+/src/test/resources/application-klap-tests.yml

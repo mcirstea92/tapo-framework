@@ -1,0 +1,18 @@
+{
+  "result": {
+    "enable": false,
+    "countdown_rule_max_count": 1,
+    "rule_list": [
+      {
+        "enable": false,
+        "id": "C1",
+        "delay": 14,
+        "remain": 0,
+        "desired_states": {
+          "on": true
+        }
+      }
+    ]
+  },
+  "error_code": 0
+}

@@ -1,0 +1,12 @@
+tplink:
+  privatekey.password: p455w0rd
+  config:
+    cron:
+      cache:
+        invalidate: 0 */1 * * * *
+        cleanup: 0 */5 * * * *
+
+logging.level.ro.builditsmart.rest.tapo: debug
+server:
+  servlet:
+    context-path: /tapo

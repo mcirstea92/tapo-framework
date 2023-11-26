@@ -1,0 +1,6 @@
+{
+  "method": "set_device_info",
+  "params": {
+    "device_on": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "result": {
+    "time_usage": {
+      "today": 1361,
+      "past7": 9961,
+      "past30": 43021
+    },
+    "power_usage": {
+      "today": 189,
+      "past7": 413,
+      "past30": 50609
+    },
+    "saved_power": {
+      "today": 1172,
+      "past7": 9548,
+      "past30": 0
+    }
+  },
+  "error_code": 0
+}
